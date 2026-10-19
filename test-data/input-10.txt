@@ -1,0 +1,7 @@
+# Test switching back to primary when secondary is empty
+GT4500,3,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

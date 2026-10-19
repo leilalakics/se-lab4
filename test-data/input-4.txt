@@ -1,0 +1,3 @@
+# Primary store always fails
+GT4500,10,1,10,0
+TORPEDO,SINGLE
